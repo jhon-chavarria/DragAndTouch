@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="color_background">#181c1f</color>
+    <color name="color_detail_text">#ffffff</color>
+    <color name="color_caption_text">#bababb</color>
+    <color name="color_zone_name">#9beb4b</color>
+
+    <color name="text_tabs">#bdc0c1</color>
+    <color name="text_tabs_selected">#06c4f4</color>
+    <color name="background_app">#181c1f</color>
+    <color name="dark_list_separator">#ff3d484e</color>
+    <color name="saving_states">#474a4c</color>
+    <color name="saving_states_selected">#ffffff</color>
+    <color name="day_unselected">#3c4448</color>
+    <color name="day_selected">#a0f150</color>
+    <color name="bg_view">#303336</color>
+    <color name="disabled">#ffbababb</color>
+
+
+
+</resources>
